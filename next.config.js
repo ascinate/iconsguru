@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: "/api/icons",
-        destination: "https://iconsguru.com/apis/icons",
+        destination: "https://iconsguru.com/admin/api/icons",
       },
     ];
   },
